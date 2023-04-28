@@ -26,6 +26,11 @@ function showData(products, data) {
                    <label for="">Còn Hàng</label>
                
               </div>
+              <div class="checkout">
+      <a class="button1" href="">
+        <span class="btn1">Thanh Toán </span>
+      </a>
+    </div>
           </div>
       </div>
 
